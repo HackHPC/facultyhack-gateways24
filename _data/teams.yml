@@ -1,0 +1,359 @@
+teams:
+- teamname: Bulldogs Team
+  mentor:
+    names: [John Holmen, Yvonne Phillips]
+    affiliation: [Oak Ridge National Laboratory, Morehouse College]
+    affiliationurl: ['https://www.ornl.gov/', 'https://morehouse.edu/']
+    role: [Mentor, Assistant Mentor]
+    socials: ['https://www.ornl.gov/staff-profile/john-k-holmen', 'https://www.linkedin.com/in/yvonne-phillips-yourdatanarrator']
+    email: [holmenjk@ornl.gov, yvonne.phillips@morehouse.edu]
+  members:
+    names: [Rui Zhu]
+    affiliation: [Kettering University]
+    affiliationurl: ['https://www.kettering.edu/']
+    major: [Computer Science]
+    role: [Hacker / participant]
+    socials: ['https://www.linkedin.com/in/ruizhu23/']
+    email: [rzhu.cs@gmail.com]
+  themesong: https://www.youtube.com/watch?v=IyhJ69mD7xI
+  themesongname: "George Thorogood & The Destroyers - Bad To The Bone"
+  #zoombackground: {}
+  #projecturl: {}
+  projectgoals: > 
+    <br>
+    Target Course(s): CS425 Parallel Programming and Algorithms, CS457 Wireless and Mobile Security
+    <br> 
+    <ul>
+    <li>Integrating HPC with Cybersecurity, Cryptography, and Machine Learning to develop curriculums</li>
+    <li>Identify applicable HPC resources from ORNL/wider HPC community and develop course descriptions<l/i>
+    <li>Create and refine course schedules, hands-on labs, etc.</li>
+    </ul>
+  #emojicode: {}
+  links:
+    - name: GitHub Repo
+      url: https://github.com/ruikobe/KetteringTeamFacHack23
+      icon: "fa-brands fa-github"
+      iconcolor: black
+    - name: Day2 - Checkin Slides
+      url: teams/bulldogsteam/introslide.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day3 - Checkin Slides
+      url: teams/bulldogsteam/FacultyHack-Day3-SaturdayCheckIn.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day4 - Checkin Slides
+      url: teams/bulldogsteam/FacultyHack23-SundayCheckin.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: CS-425 Course Syllabus
+      url: https://github.com/ruikobe/KetteringTeamFacHack23/blob/main/CS425%20Syllabus.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: CRAWDAD Dataset
+      url: https://ieee-dataport.org/collections/crawdad
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+  images:
+    - name: Team Intro
+      url: teams/bulldogsteam/introslide.pdf
+      imagelink: teams/bulldogsteam/introslide.png
+    - name: Course Description and Resources
+      url: teams/bulldogsteam/FacultyHack-Day3-SaturdayCheckIn.pdf
+      imagelink: teams/bulldogsteam/coursedesc.png
+
+- teamname: CAMSA Team
+  mentor:
+    names: [Elijah  MacCarthy, Munene Kanampiu]
+    affiliation: [Oak Ridge National Laboratory, Winston-Salem State University]
+    affiliationurl: ['https://www.ornl.gov/', 'https://wssu.edu/']
+    role: [Mentor, Assistant Mentor]
+    socials: ['https://www.linkedin.com/in/elijah-maccarthy-ph-d-6176b293/',
+      'https://www.linkedin.com/in/munene-kanampiu-ph-d-1032508']
+    email: [maccarthyea@ornl.gov, kanampiumw@wssu.edu]
+  members:
+    names: [Izzat Alsmadi]
+    affiliation: ['Texas A&M, San Antonio']
+    affiliationurl: ['https://www.tamusa.edu/']
+    major: [Computing & Cybersecurity]
+    role: [Hacker / participant]
+    socials: [www.tamusa.edu]
+    email: [alsmadi@gmail.com]
+  themesong: https://soundcloud.com/r-w-hampton/ballad-of-the-alamo?in=user-470687170/sets/normal
+  themesongname: Ballad of the Alamo - R.W. Hampton 
+  zoombackground: teams/camsateam/Zoombg.png
+  projecturl: {}
+  projectgoals: >
+    <ul>
+      <li> This course is meant to students but also to faculty/staff beyond typical course environments (CSCI 5306) </li>
+      <li> The main goal is to create a course that can be flexible in the time/duration from 1 to 16 weeks (1. Adding more training and modules, and 2: Produce customized modules to the different disciplines). </li>
+      <li> The course will consist of lectures, practical hands-on homework assignments, and hands-on laboratory work where students will try to build their own scripts to be executed in the HPC environment. </li>  
+    </ul>
+  #emojicode: {}
+  links:
+    - name: GitHub Repo
+      url: https://github.com/alsmadi/CAMSA_Gateways_2023
+      icon: "fa-brands fa-github"
+      iconcolor: black
+    - name: Day2 - Checkin Slides
+      url: teams/camsateam/FacultyHack-Day2.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day3 - Checkin Slides
+      url: teams/camsateam/FacultyHack-Day3-SaturdayCheckIn.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day4 - Checkin Slides
+      url: teams/camsateam/FacultyHack23-SundayCheckin.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: ACCESS-CI 
+      url: https://access-ci.org/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+    - name: Texas A&M High Performance Research Computing
+      url: https://hprc.tamu.edu/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+    - name: Sample Datasets - Towards Data Science
+      url: https://towardsdatascience.com/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+  images:
+    - name: Team Intro
+      url: teams/camsateam/FacultyHack-Day2.pdf
+      imagelink: teams/camsateam/FacultyHack-Day2.png
+    - name: Course Description and Resources
+      url: teams/camsateam/FacultyHack-Day3-SaturdayCheckIn.pdf
+      imagelink: teams/camsateam/FacultyHack-Day3-SaturdayCheckIn.png
+    - name: Poster
+      url: teams/camsateam/2023_FacultyHack-GatewaysPoster-withfeedback_CAMSA_10_21_2023.pdf
+      imagelink: teams/camsateam/2023_FacultyHack-GatewaysPoster-withfeedback_CAMSA_10_21_2023.png
+
+- teamname: Jarvis Bulldog Team
+  mentor:
+    names: [Jeaime Powell, Hector Santiago]
+    affiliation: [Texas Advanced Computing Center, Winston-Salem State University]
+    affiliationurl: ['https://tacc.utexas.edu/', 'https://wssu.edu/']
+    role: [Mentor, Assistant Mentor]
+    socials: ['https://www.linkedin.com/in/jeaimehp/', 'https://www.linkedin.com/in/hmsiii']
+    email: [jpowell@tacc.utexas.edu, hsantiago119@rams.wssu.edu]
+  members:
+    names: [Widodo Samyono]
+    affiliation: [Jarvis Christian University]
+    affiliationurl: ['https://www.jarvis.edu/ ']
+    major: [Mathematics]
+    role: [Hacker / participant]
+    socials: ['https://www.linkedin.com/in/widodosamyono']
+    email: [wsamyono@gmail.com]
+  themesong: https://www.youtube.com/watch?v=M4vbJQ-MrKo
+  themesongname: Hey Bulldog - The Beatles
+  zoombackground: teams/jarvisbulldogteam/Jarvis_Bulldog_Team_Zoom_Background.jpg
+  projecturl: https://wsamyono.github.io/BulldogTeamFacHackGW23/
+  projectgoals: >
+    <ul>
+      <li> Redesigning MATH 3390: Computational and Mathematical Biology, using HPC Open Sources from Science Gateways. </li>
+      <li> Building a website for MATH 3390: Computational and Mathematical Biology, using the HPC Open Sources. </li>
+      <li> Piloting the redesigned course in Spring 2024. </li>
+      <li> Conducting surveys and evaluations for the course.  </li>
+    </ul>
+  #emojicode: {}
+  links:
+    - name: GitHub Repo
+      url: https://github.com/wsamyono/BulldogTeamFacHackGW23
+      icon: "fa-brands fa-github"
+      iconcolor: black
+    - name: GitHub Pages Site
+      url: https://wsamyono.github.io/BulldogTeamFacHackGW23/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+    - name: Day2 - Checkin Slides
+      url: teams/jarvisbulldogteam/FacultyHack-Day2.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day3 - Checkin Slides
+      url: teams/jarvisbulldogteam/FacultyHack-Day3-SaturdayCheckIn.png
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day4 - Checkin Slides
+      url: teams/jarvisbulldogteam/FacultyHack23-SundayCheckin.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Course Syllabus
+      url: https://wsamyono.github.io/BulldogTeamFacHackGW23/Spring2024-MATH3390-CourseSyllabus.pdf
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+    - name: DesignSafe-CI
+      url: https://www.designsafe-ci.org/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+    - name: Jetstream2
+      url: https://jetstream-cloud.org/index.html
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+  images:
+    - name: Team Intro
+      url: teams/jarvisbulldogteam/FacultyHack-Day2.pdf
+      imagelink: teams/jarvisbulldogteam/FacultyHack-Day2.png
+    - name: Course Description and Resources
+      url: teams/jarvisbulldogteam/FacultyHack-Day3-SaturdayCheckIn.pdf
+      imagelink: teams/jarvisbulldogteam/FacultyHack-Day3-SaturdayCheckIn.png
+    - name: Poster
+      url: teams/jarvisbulldogteam/2023_FacultyHack-GatewaysPoster-withfeedback Widodo Samyono JCU.pdf
+      imagelink: teams/jarvisbulldogteam/2023_FacultyHack-GatewaysPoster-withfeedback Widodo Samyono JCU.png
+
+      
+
+- teamname: Team Altair
+  mentor:
+    names: [Veronica Vergara, Mohamed Elbakary]
+    affiliation: [Oak Ridge National Laboratory, Elizabeth City State University]
+    affiliationurl: ['https://www.ornl.gov/', 'https://ecsu.edu/']
+    role: [Mentor, Assistant Mentor]
+    socials: ['https://www.ornl.gov/staff-profile/veronica-g-melesse-vergara',
+      'https://www.ecsu.edu/directory/mohamed-elbakary.php']
+    email: [vergaravg@ornl.gov, melbakary@ecsu.edu]
+  members:
+    names: [Bernadette Boscoe]
+    affiliation: [Southern Oregon University]
+    affiliationurl: ['https://sou.edu/']
+    major: [Computer Science]
+    role: [Hacker / participant]
+    socials: ['https://www.bernieboscoe.com']
+    email: [bernieboscoe@gmail.com]
+  themesong: https://soundcloud.com/markaymufc/new-order-thieves-like-us-mk-instrumental-cover-kleptomaniac-mix
+  themesongname: New Order - Thieves like us remix (1987)
+  zoombackground: teams/teamaltair/teamaltair-zoombg.jpg
+  #projecturl: {}
+  projectgoals: >
+    To add a module to an undergraduate Intro to Data Science course that demonstrates how to use Jupyter Notebooks in the cloud, with a large dataset, and if I can, GPUs to train an ML model that would not be possible to do without a GPU-enabled device. Outcomes would be an understanding of accessing cloud interfaces, basic terminal commands, an overview of the Jupyter notebook as both a local and cloud tool, and if possible, how to test if GPUs are being seen. Update: possibly using JetStream2.
+  #emojicode: {}
+  links:
+    - name: GitHub Repo
+      url: https://github.com/bboscoe/gateways23
+      icon: "fa-brands fa-github"
+      iconcolor: black
+    - name: Day2 - Checkin Slides
+      url: teams/teamaltair/FacultyHack-Day2.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day3 - Checkin Slides
+      url: teams/teamaltair/FacultyHack-Day3-SaturdayCheckIn.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day4 - Checkin Slides
+      url: teams/teamaltair/FacultyHack23-SundayCheckin.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: SciServer
+      url: https://www.idies.jhu.edu/what-we-offer/sciserver/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+  images:
+    - name: Team Intro
+      url: teams/teamaltair/FacultyHack-Day2.pdf
+      imagelink: teams/teamaltair/FacultyHack-Day2.png
+    - name: Sample Exercises 
+      url: teams/teamaltair/FacultyHack23-SundayCheckin.pdf
+      imagelink: teams/teamaltair/FacultyHack23-SundayCheckin-sampleex.png
+
+- teamname: Team Tech Tigers
+  mentor:
+    names: [Alfred Watkins, Fernanda Foertter]
+    affiliation: [Morehouse College, Voltron Data]
+    affiliationurl: ['https://morehouse.edu/', 'https://voltrondata.com/']
+    role: [Assistant Mentor, Mentor]
+    socials: ['https://www.linkedin.com/in/alfred-watkins-85890b5/', 'https://www.linkedin.com/in/foertter']
+    email: [alfred.watkins@morehouse.edu, fernanda@voltrondata.com]
+  members:
+    names: [Andrew Overton, Jacqueline Jackson]
+    affiliation: [Jackson State University, Jackson State University]
+    affiliationurl: ['https://www.jsums.edu/', 'https://www.jsums.edu/']
+    major: ['Computer Science & Computer Engineering ', 'Computer Science
+        & Computer Engineering ']
+    role: [Hacker / participant, Hacker / participant]
+    socials: [' https://www.facebook.com/andrew.overton.731', 'https://www.linkedin.com/in/jacqueline-jackson-1a967527']
+    email: [andrew.j.overton.sr@gmail.com, jacqueline.m.jackson@jsums.edu]
+  themesong: https://soundcloud.com/oingo-boingo-official/weird-science-album-version?si=e08c2d1f6ce54be18aa649d1ea08556c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+  themesongname: Weird Science - OINGO BOINGO}
+  zoombackground: teams/teamtechtigers/Zoom_Background_Hackathon.jpg
+  #projecturl: {}
+  projectgoals: >
+    Target Course: ECE 101 - Introduction to Electrical & Computer Engineering 
+
+    <ul> 
+      <li> Expand the Introduction to Computers Module to include an introduction to High Performance Computing </li> 
+      <li> Introduce students to cloud services including GitHub and AWS </li> 
+      <li> Expand students’ understanding of the need for HPC professionals </li> 
+    </ul>
+  #emojicode: {}
+  links:
+    - name: GitHub Repo
+      url: https://github.com/jackson820/TeamTechTigers
+      icon: "fa-brands fa-github"
+      iconcolor: black
+    - name: Day2 - Checkin Slides
+      url: teams/teamtechtigers/FacultyHack-Day2.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: Day4 - Checkin Slides
+      url: teams/teamtechtigers/FacultyHack23-SundayCheckin.pdf
+      icon: fa-regular fa-file-pdf
+      iconcolor: red
+    - name: AWS Educate
+      url: https://aws.amazon.com/education/awseducate/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+    - name: Google for Education
+      url: https://edu.google.com/
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+  images:
+    - name: Team Intro
+      url: teams/teamtechtigers/FacultyHack-Day2.pdf
+      imagelink: teams/teamtechtigers/FacultyHack-Day2.png
+    - name: Student Exercises
+      url: teams/teamtechtigers/FacultyHack23-SundayCheckin.pdf
+      imagelink: teams/teamtechtigers/FacultyHack23-SundayCheckin-ex.png
+
+- teamname: ThreatTracker
+  mentor:
+    names: [Hector Hernandez, Yvonne Phillips]
+    affiliation: [Oak Ridge National Laboratory, Morehouse College]
+    affiliationurl: ['https://www.ornl.gov/', 'https://morehouse.edu/']
+    role: [Mentor, Assistant Mentor]
+    socials: ['https://www.ornl.gov/staff-profile/hector-f-hernandez-corzo',
+      'https://www.linkedin.com/in/yvonne-phillips-yourdatanarrator']
+    email: [hernandezchf@ornl.gov, yvonne.phillips@morehouse.edu]
+  members:
+    names: [Shan Reddy]
+    affiliation: [University of North Carolina at Pembroke]
+    affiliationurl: ['https://www.uncp.edu/']
+    major: [Computer Science & Cybersecurity]
+    role: [Hacker / participant]
+    socials: ['https://www.uncp.edu/profile/prashanth-busireddygari-phd']
+    email: [prashanthreddys91@gmail.com]
+  themesong: https://soundcloud.com/alslyn/synesthesia?in=sc-playlists/sets/brainwaves
+  themesongname: Synesthesia - Alslyn
+  zoombackground: teams/threattracker/threattracker-zoombg.png
+  projecturl: https://shan-reddy.github.io/SGX3-Faculty-Hackathon-2023/Home.html
+  #projectgoals: {}
+  #emojicode: {}
+  links:
+    - name: GitHub Repo
+      url: https://github.com/Shan-Reddy/SGX3-Faculty-Hackathon-2023
+      icon: "fa-brands fa-github"
+      iconcolor: black
+    - name: Syllabus Course Site
+      url: https://shan-reddy.github.io/SGX3-Faculty-Hackathon-2023/Home.html
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+    - name: Cybersecurity and Infrastructure Security Research Gateway
+      url: https://www.cisa.gov/resources-tools/services/cisa-gateway
+      icon: "fa-solid fa-globe"
+      iconcolor: black
+      
+  images:
+    - name: Team Intro
+      url: teams/threattracker/FacultyHack-Day2-Intro.pdf
+      imagelink: teams/threattracker/FacultyHack-Day2-Intro.png

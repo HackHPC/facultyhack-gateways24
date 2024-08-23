@@ -1,0 +1,266 @@
+#preevent_schedule:
+## date time format example '2012-01-26T13:51:50.417-04:00'
+#  - date: "2023-06-22T13:30(-04:00)"
+#    #session: Morning #Evening
+#    length: 02:00
+#    timezone: EDT
+#    #location: Westin 6th Floor - Chastain F Room
+#    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+#    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+#    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+#    zoomlink: https://us02web.zoom.us/j/84805715930?pwd=bEVKSE9NM1U1R3VzL2p1ejJPSlpoQT09
+#    theme: Event Overview and Training
+#    events:
+#      - name: GitHub/GitHub Pages Training
+#        #type: Presentation
+#        links:
+#          - title: Slide Deck
+#            icon: fa-regular fa-file-pdf
+#            iconcolor: red
+#            url: "assets/slides/pre-event_training/GitHub-and-Github-Pages.pdf"
+#          - title: YouTube Video
+#            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+#            iconcolor: red
+#            url: "https://youtu.be/UzzKBQmiLsU"
+#  #
+#
+#
+
+### Add link to ics file that has all other ics files merged
+
+mergedicsfile: assets/ics_files/FacultyHack-AllSessions.ics
+
+###
+
+general_schedule:
+  ## date time format example '2012-01-26T13:51:50.417-04:00'
+  - date: "2023-10-16T17:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/FacultyHackGateways23-Monday.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: Poster Template and GitHub
+    events:
+      - name: Gateways23 Poster and GitHub Overview
+        type: Training
+        links:
+          - title: Poster Template
+            icon: fa-regular fa-file-powerpoint
+            url: "resources/2023_FacultyHack-GatewaysPoster-withfeedback.pptx"
+            iconcolor: darkred
+          - title: Zoom Virtual Background
+            icon: "fa-solid fa-file-image"
+            url: "assets/imgs/SGX3FacultyHack2023_ZoomBG1.png"
+            iconcolor: blue 
+          - title: Session Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/yQzUcT71mwo"
+          - title: Discord
+            url: https://discord.gg/UMwvq25mWC
+            icon: fa-brands fa-discord
+            iconcolor: purple
+          - title: Session Slide Deck
+            url: assets/slides/pre-event_training/FacultyHack23-PosterOverview-GitHubOverview.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+       
+          
+
+  - date: "2023-10-17T17:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/FacultyHackGateways23-Tuesday.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: HPC Overview
+    events:
+      - name: HPC Overview
+        type: Training
+        links: 
+          - title: Session Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/o2GPaSwOcjg"
+          
+
+  #
+  - date: "2023-10-18T17:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/FacultyHackGateways23-Wednesday.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: Science Gateways Overview
+    events:
+      - name: SGX3 and HPC-ED Overviews
+        type: Training
+        links:
+          - title: Session Slide Deck
+            url:  assets/slides/pre-event_training/FacultyHack23-SGX3_HPCED.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+          - title: Session Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/VVvyKx_2sBg"
+          - title: Science Gateways Catalog 
+            url: https://sciencegateways.org/education-training/resources
+            icon: fa-solid fa-link
+            iconcolor: black
+          - title: HPC-ED
+            url: https://hpc-ed.github.io
+            icon: fa-solid fa-link
+            iconcolor: black
+          - title: HPC-ED Jamboard Output
+            url: assets/slides/pre-event_training/FacultyHack-HPC-ED.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+
+
+  - date: "2023-10-19T17:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/FacultyHackGateways23-Thursday.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: Hackathon Kick-Off
+    events:
+      - name: "Omnibond's Project Eureka"
+        type: Training
+        links:
+          - title: Omnibond Eureka
+            url: https://gateways.omnibond.com
+            icon: fa-solid fa-link
+            iconcolor: black
+          - title: Project Eureka Slide Deck
+            url: assets/slides/event/Omnibond-ProjectEureka-Discussion.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+          - title: Session Slide Deck
+            url: assets/slides/event/FacultyHack-Kickoff.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+          - title: Session Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/1VRcTb2RFUc"
+
+
+
+  - date: "2023-10-20T17:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/FacultyHackGateways23-Friday.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: Team Checkin - Team Introductions
+    events:
+      - name: Omnibond CloudyCluster Overview
+      - name: Team Mentors Checkin
+        links:
+          - title: Session Slide Deck
+            url: assets/slides/event/FacultyHack-Day2.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+          - title: Session Video
+            icon: "fab fa-youtube" #fa-regular fa-file-pdf
+            iconcolor: red
+            url: "https://youtu.be/0yR9ZU_1M_0"
+
+
+
+
+  - date: "2023-10-21T17:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/FacultyHackGateways23-Saturday.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: Team Checkin
+    events:
+      - name: Faculty Course Updates 
+        links:
+          - title: Session Slide Deck
+            url: assets/slides/event/Saturday-checkin-course_resources_datasets.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+          - title: Faculty Updates Slide Deck
+            url: assets/slides/event/FacultyHack-Day3-SaturdayCheckIn.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+
+
+
+
+
+
+  - date: "2023-10-22T17:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/FacultyHackGateways23-Sunday.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: Team Checkin
+    events:
+      - name: ORNL Pathways to Supercomputing
+        type: Presentation
+        links:
+          - title: ORNL Slide Deck
+            url: assets/slides/event/ORNL-Pathways-FacultyHack.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+      - name: Faculty Course Updates 
+        links:
+          - title: Session Slide Deck
+            url: assets/slides/event/FacultyHack23-SundayCheckin.pdf
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+          - title: Post Event Survey
+            url: https://forms.gle/S3Wx7DAoGeEQ11U9A
+            icon: fa-solid fa-clipboard-question
+            iconcolor: purple
+
+
+            
+
+  - date: "2023-10-30T18:40(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/Gateways23-PosterSession.ics
+    location: The Landing Hotel
+    address: "The Landing Hotel, 777 Casino Drive, Pittsburgh, PA 15212"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/97896041524
+    theme: Poster Session
