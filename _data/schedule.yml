@@ -52,6 +52,10 @@ preevent_schedule:
           url: resources/FacultyHack24-Poster_Template.pptx
           icon: fa-regular fa-file-powerpoint
           iconcolor: purple  
+        - title: Zoom Virtual Background
+          icon: "fa-solid fa-file-image"
+          url: "assets/imgs/facultyhack24-zoombackground.png"
+          iconcolor: blue
 
 
 
