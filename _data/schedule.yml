@@ -45,7 +45,13 @@ preevent_schedule:
 #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Mentor Overview and Training
-    events: 
+    events:
+    - name: Resources
+      links:
+        - title: Poster Template
+          url: resources/FacultyHack24-Poster_Template.pptx
+          icon: fa-regular fa-file-powerpoint
+          iconcolor: purple  
 
 
 
@@ -63,13 +69,13 @@ general_schedule:
     zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Mentor Introductions, GitHub Overview, and Eureka Overview
     events:
-      #- name: Mentor Introductions, Poster Template, GitHub, Eureka Overview
-      #  type: Training
-      #  links:
-          #- title: Poster Template
-          #  icon: fa-regular fa-file-powerpoint
-          #  url: "resources/2023_FacultyHack-GatewaysPoster-withfeedback.pptx"
-          #  iconcolor: darkred
+      - name: Mentor Introductions, Poster Template, GitHub, Eureka Overview
+        type: Training
+        links:
+          - title: Poster Template
+            icon: fa-regular fa-file-powerpoint
+            url: "resources/FacultyHack24-Poster_Template.pptx"
+            iconcolor: purple
           #- title: Zoom Virtual Background
           #  icon: "fa-solid fa-file-image"
           #  url: "assets/imgs/SGX3FacultyHack2023_ZoomBG1.png"
