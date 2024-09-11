@@ -28,9 +28,26 @@
 
 ### Add link to ics file that has all other ics files merged
 
-#mergedicsfile: assets/ics_files/FacultyHack-AllSessions.ics
+mergedicsfile: assets/ics_files/Faculty_Hack_Gateways24-All_Sessions.ics
 
 ###
+
+preevent_schedule:
+## date time format example '2012-01-26T13:51:50.417-04:00'
+  - date: "2024-09-12T18:00(-04:00)"
+    session: Afternoon #Morning #Evening
+#    length: 02:00
+    timezone: EDT
+    icsfile: assets/ics_files/Faculty_Hack_Gateways24-Mentor_s_Overview.ics
+#    #location: Westin 6th Floor - Chastain F Room
+#    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+#    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+#    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/94763842171
+    theme: Mentor Overview and Training
+    events: 
+
+
 
 general_schedule:
   ## date time format example '2012-01-26T13:51:50.417-04:00'
@@ -38,12 +55,12 @@ general_schedule:
     session: Afternoon
     #    length: 02:00
     timezone: EDT
-    #icsfile: assets/ics_files/FacultyHackGateways23-Monday.ics
+    icsfile: assets/ics_files/Faculty_Hack_Gateways24-Day1.ics
     #    #location: Westin 6th Floor - Chastain F Room
     #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
-    #zoomlink: https://utexas.zoom.us/j/97896041524
+    zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Mentor Introductions, GitHub Overview, and Eureka Overview
     events:
       #- name: Mentor Introductions, Poster Template, GitHub, Eureka Overview
@@ -62,12 +79,12 @@ general_schedule:
     session: Afternoon
     #    length: 02:00
     timezone: EDT
-    #icsfile: assets/ics_files/FacultyHackGateways23-Monday.ics
+    icsfile: assets/ics_files/Faculty_Hack_Gateways24-Day2.ics
     #    #location: Westin 6th Floor - Chastain F Room
     #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
-    #zoomlink: https://utexas.zoom.us/j/97896041524
+    zoomlink: https://utexas.zoom.us/j/94763842171
     theme: HPC and Science Gateways Overviews
     events:
       #- name: Mentor Introductions, Poster Template, GitHub, Eureka Overview
@@ -82,36 +99,36 @@ general_schedule:
     session: Afternoon
     #    length: 02:00
     timezone: EDT
-    #icsfile: assets/ics_files/FacultyHackGateways23-Monday.ics
+    icsfile: assets/ics_files/Faculty_Hack_Gateways24-Day3.ics
     #    #location: Westin 6th Floor - Chastain F Room
     #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
-    #zoomlink: https://utexas.zoom.us/j/97896041524
+    zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Hackthon Project Introductions
   
   - date: "2024-09-19T18:00(-04:00)"
     session: Afternoon
     #    length: 02:00
     timezone: EDT
-    #icsfile: assets/ics_files/FacultyHackGateways23-Monday.ics
+    icsfile: assets/ics_files/Faculty_Hack_Gateways24-Day4.ics
     #    #location: Westin 6th Floor - Chastain F Room
     #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
-    #zoomlink: https://utexas.zoom.us/j/97896041524
+    zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Project Checkins
   
   - date: "2024-09-20T18:00(-04:00)"
     session: Afternoon
     #    length: 02:00
     timezone: EDT
-    #icsfile: assets/ics_files/FacultyHackGateways23-Monday.ics
+    icsfile: aassets/ics_files/Faculty_Hack_Gateways24-Day5.ics
     #    #location: Westin 6th Floor - Chastain F Room
     #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
-    #zoomlink: https://utexas.zoom.us/j/97896041524
+    zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Project Checkins
   
   - date: "2024-10-08T16:00(-06:00)"
@@ -123,5 +140,5 @@ general_schedule:
     address: "Best Western Plus GranTree Inn (1325 N 7th Avenue, Bozeman, Montana 59715)"
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
-    #zoomlink: https://utexas.zoom.us/j/97896041524
+    zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Gateways24 Poster Session

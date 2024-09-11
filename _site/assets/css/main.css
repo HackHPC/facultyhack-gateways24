@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #1f4f63;
+  color: #9ec1d4;
   text-decoration: none;
 }
 a:hover {
@@ -417,10 +417,10 @@ html[data-scroll-status=down] .framework .sidebar {
   padding: 54px 0;
 }
 .site-footer a {
-  color: #1f4f63;
+  color: #9ec1d4;
 }
 .site-footer a:hover {
-  color: #2b6e8a;
+  color: #c1d8e4;
 }
 
 .copyleft {
@@ -497,7 +497,7 @@ html[data-scroll-status=down] .framework .sidebar {
   margin-left: 8px;
   margin-top: 3px;
   padding: 0px 3px;
-  background-color: #1f4f63;
+  background-color: #9ec1d4;
   color: #fff;
   font-size: 10px;
   font-weight: 600;
@@ -654,7 +654,7 @@ html[data-scroll-status=down] .framework .sidebar {
   margin-left: 8px;
   margin-top: 3px;
   padding: 0px 3px;
-  background-color: #1f4f63;
+  background-color: #9ec1d4;
   color: #fff;
   font-size: 10px;
   font-weight: 600;
@@ -895,7 +895,7 @@ html[data-scroll-status=down] .framework .sidebar {
   margin-left: 8px;
   margin-top: 3px;
   padding: 0px 3px;
-  background-color: #1f4f63;
+  background-color: #9ec1d4;
   color: #fff;
   font-size: 10px;
   font-weight: 600;
@@ -1592,7 +1592,7 @@ h2.event-title {
 .event .event-right a.organizer-accent {
   font-size: medium;
   font-weight: bold;
-  color: #1f4f63;
+  color: #9ec1d4;
 }
 
 img.organizers {
