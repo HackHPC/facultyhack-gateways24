@@ -20,7 +20,7 @@ TZOFFSETTO:-0500
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-CREATED:20240911T185412Z
+CREATED:20240912T184030Z
 DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
  n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
  : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
@@ -29,36 +29,36 @@ DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
  15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
  Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
   209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
- 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 689
- 278 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 87
- 82 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: h
- ttps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@
- zoomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.25
- 5.36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (Indi
- a Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.11
- 0 (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Aust
- ralia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil
- )\n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.
- 39.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.13
- 7.24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
+ 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 6892
+ 78 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 878
+ 2 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: ht
+ tps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@z
+ oomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.255
+ .36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (India
+  Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.110
+  (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Austr
+ alia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil)
+ \n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.3
+ 9.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.137
+ .24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
 DTEND;TZID=America/New_York:20240916T200000
-DTSTAMP:20240911T185506Z
+DTSTAMP:20240912T184116Z
 DTSTART;TZID=America/New_York:20240916T180000
-LAST-MODIFIED:20240911T185412Z
+LAST-MODIFIED:20240912T184030Z
 LOCATION:https://utexas.zoom.us/j/94763842171
-SEQUENCE:0
+SEQUENCE:4
 SUMMARY:Faculty Hack @ Gateways24 - Day1
 TRANSP:OPAQUE
 TZID:America/New_York
-UID:ZOOM94763842171@zoom.us
+UID:20313005-FBC2-47E6-9585-50B2E038DFD7
 X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT10M
-UID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
-X-WR-ALARMUID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
+UID:C2C5981C-E79A-476D-ABB6-5F22FFBFCC68
+X-WR-ALARMUID:C2C5981C-E79A-476D-ABB6-5F22FFBFCC68
 END:VALARM
 BEGIN:VALARM
 ACTION:NONE
@@ -66,7 +66,7 @@ TRIGGER;VALUE=DATE-TIME:19760401T005545Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20240911T185437Z
+CREATED:20240911T185315Z
 DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
  n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
  : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
@@ -75,116 +75,24 @@ DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
  15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
  Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
   209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
- 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 689
- 278 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 87
- 82 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: h
- ttps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@
- zoomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.25
- 5.36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (Indi
- a Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.11
- 0 (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Aust
- ralia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil
- )\n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.
- 39.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.13
- 7.24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
-DTEND;TZID=America/New_York:20240919T200000
-DTSTAMP:20240911T185516Z
-DTSTART;TZID=America/New_York:20240919T180000
-LAST-MODIFIED:20240911T185437Z
-LOCATION:https://utexas.zoom.us/j/94763842171
-SEQUENCE:0
-SUMMARY:Faculty Hack @ Gateways24 - Day4
-TRANSP:OPAQUE
-TZID:America/New_York
-UID:ZOOM94763842171@zoom.us
-X-APPLE-CREATOR-IDENTITY:com.apple.calendar
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT10M
-UID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
-X-WR-ALARMUID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
-END:VALARM
-BEGIN:VALARM
-ACTION:NONE
-TRIGGER;VALUE=DATE-TIME:19760401T005545Z
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20240911T185429Z
-DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
- n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
- : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
- S\n+19292056099\,\,94763842171# US (New York)\n\n---\n\nDial by your loc
- ation\n• +1 305 224 1968 US\n• +1 929 205 6099 US (New York)\n• +1 301 7
- 15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
- Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
-  209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
- 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 689
- 278 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 87
- 82 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: h
- ttps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@
- zoomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.25
- 5.36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (Indi
- a Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.11
- 0 (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Aust
- ralia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil
- )\n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.
- 39.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.13
- 7.24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
-DTEND;TZID=America/New_York:20240918T200000
-DTSTAMP:20240911T185513Z
-DTSTART;TZID=America/New_York:20240918T180000
-LAST-MODIFIED:20240911T185429Z
-LOCATION:https://utexas.zoom.us/j/94763842171
-SEQUENCE:0
-SUMMARY:Faculty Hack @ Gateways24 - Day3
-TRANSP:OPAQUE
-TZID:America/New_York
-UID:ZOOM94763842171@zoom.us
-X-APPLE-CREATOR-IDENTITY:com.apple.calendar
-X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT10M
-UID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
-X-WR-ALARMUID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
-END:VALARM
-BEGIN:VALARM
-ACTION:NONE
-TRIGGER;VALUE=DATE-TIME:19760401T005545Z
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-CREATED:20240911T185444Z
-DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
- n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
- : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
- S\n+19292056099\,\,94763842171# US (New York)\n\n---\n\nDial by your loc
- ation\n• +1 305 224 1968 US\n• +1 929 205 6099 US (New York)\n• +1 301 7
- 15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
- Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
-  209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
- 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 689
- 278 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 87
- 82 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: h
- ttps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@
- zoomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.25
- 5.36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (Indi
- a Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.11
- 0 (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Aust
- ralia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil
- )\n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.
- 39.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.13
- 7.24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
+ 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 6892
+ 78 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 878
+ 2 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: ht
+ tps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@z
+ oomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.255
+ .36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (India
+  Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.110
+  (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Austr
+ alia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil)
+ \n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.3
+ 9.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.137
+ .24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
 DTEND;TZID=America/New_York:20240920T200000
-DTSTAMP:20240911T185518Z
+DTSTAMP:20240912T184129Z
 DTSTART;TZID=America/New_York:20240920T180000
-LAST-MODIFIED:20240911T185444Z
+LAST-MODIFIED:20240912T184112Z
 LOCATION:https://utexas.zoom.us/j/94763842171
-SEQUENCE:0
+SEQUENCE:8
 SUMMARY:Faculty Hack @ Gateways24 - Day5
 TRANSP:OPAQUE
 TZID:America/New_York
@@ -204,7 +112,7 @@ TRIGGER;VALUE=DATE-TIME:19760401T005545Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-CREATED:20240911T185315Z
+CREATED:20240912T184043Z
 DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
  n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
  : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
@@ -213,36 +121,174 @@ DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
  15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
  Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
   209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
- 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 689
- 278 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 87
- 82 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: h
- ttps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@
- zoomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.25
- 5.36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (Indi
- a Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.11
- 0 (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Aust
- ralia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil
- )\n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.
- 39.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.13
- 7.24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
-DTEND;TZID=America/New_York:20240912T200000
-DTSTAMP:20240911T185328Z
-DTSTART;TZID=America/New_York:20240912T180000
-LAST-MODIFIED:20240911T185315Z
+ 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 6892
+ 78 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 878
+ 2 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: ht
+ tps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@z
+ oomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.255
+ .36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (India
+  Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.110
+  (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Austr
+ alia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil)
+ \n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.3
+ 9.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.137
+ .24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
+DTEND;TZID=America/New_York:20240917T200000
+DTSTAMP:20240912T184122Z
+DTSTART;TZID=America/New_York:20240917T180000
+LAST-MODIFIED:20240912T184043Z
 LOCATION:https://utexas.zoom.us/j/94763842171
-SEQUENCE:0
-SUMMARY:Faculty Hack @ Gateways24 - Mentor's Overview
+SEQUENCE:5
+SUMMARY:Faculty Hack @ Gateways24 - Day2
 TRANSP:OPAQUE
 TZID:America/New_York
-UID:ZOOM94763842171@zoom.us
+UID:E4F698F2-FDC0-4E51-9AD0-24F346C4BD77
 X-APPLE-CREATOR-IDENTITY:com.apple.calendar
 X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Reminder
 TRIGGER:-PT10M
-UID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
-X-WR-ALARMUID:431A69E6-FA9D-4326-BDFF-D7F3E893E713
+UID:F4946C6F-0495-4922-B4CC-D39D4C3B107D
+X-WR-ALARMUID:F4946C6F-0495-4922-B4CC-D39D4C3B107D
+END:VALARM
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240912T184106Z
+DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
+ : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
+ S\n+19292056099\,\,94763842171# US (New York)\n\n---\n\nDial by your loc
+ ation\n• +1 305 224 1968 US\n• +1 929 205 6099 US (New York)\n• +1 301 7
+ 15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
+ Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
+  209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
+ 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 6892
+ 78 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 878
+ 2 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: ht
+ tps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@z
+ oomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.255
+ .36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (India
+  Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.110
+  (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Austr
+ alia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil)
+ \n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.3
+ 9.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.137
+ .24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
+DTEND;TZID=America/New_York:20240919T200000
+DTSTAMP:20240912T184127Z
+DTSTART;TZID=America/New_York:20240919T180000
+LAST-MODIFIED:20240912T184106Z
+LOCATION:https://utexas.zoom.us/j/94763842171
+SEQUENCE:7
+SUMMARY:Faculty Hack @ Gateways24 - Day4
+TRANSP:OPAQUE
+TZID:America/New_York
+UID:9AF94891-5FF5-4435-9F76-075F797577CF
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT10M
+UID:905FBF51-16C1-4287-A6B2-05FE6604454D
+X-WR-ALARMUID:905FBF51-16C1-4287-A6B2-05FE6604454D
+END:VALARM
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240912T184056Z
+DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
+ : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
+ S\n+19292056099\,\,94763842171# US (New York)\n\n---\n\nDial by your loc
+ ation\n• +1 305 224 1968 US\n• +1 929 205 6099 US (New York)\n• +1 301 7
+ 15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
+ Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
+  209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
+ 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 6892
+ 78 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 878
+ 2 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: ht
+ tps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@z
+ oomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.255
+ .36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (India
+  Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.110
+  (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Austr
+ alia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil)
+ \n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.3
+ 9.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.137
+ .24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
+DTEND;TZID=America/New_York:20240918T200000
+DTSTAMP:20240912T184125Z
+DTSTART;TZID=America/New_York:20240918T180000
+LAST-MODIFIED:20240912T184056Z
+LOCATION:https://utexas.zoom.us/j/94763842171
+SEQUENCE:6
+SUMMARY:Faculty Hack @ Gateways24 - Day3
+TRANSP:OPAQUE
+TZID:America/New_York
+UID:A258C27F-79D6-45A5-AC61-15667D7A257B
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT10M
+UID:0A30C010-C309-4FBD-8003-D97994BB70C2
+X-WR-ALARMUID:0A30C010-C309-4FBD-8003-D97994BB70C2
+END:VALARM
+BEGIN:VALARM
+ACTION:NONE
+TRIGGER;VALUE=DATE-TIME:19760401T005545Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240912T183839Z
+DESCRIPTION:Je'aime Powell is inviting you to a scheduled Zoom meeting.\
+ n\nJoin Zoom Meeting\nhttps://utexas.zoom.us/j/94763842171\n\nMeeting ID
+ : 947 6384 2171\n\n---\n\nOne tap mobile\n+13052241968\,\,94763842171# U
+ S\n+19292056099\,\,94763842171# US (New York)\n\n---\n\nDial by your loc
+ ation\n• +1 305 224 1968 US\n• +1 929 205 6099 US (New York)\n• +1 301 7
+ 15 8592 US (Washington DC)\n• +1 309 205 3325 US\n• +1 312 626 6799 US (
+ Chicago)\n• +1 646 931 3860 US\n• +1 346 248 7799 US (Houston)\n• +1 360
+  209 5623 US\n• +1 386 347 5053 US\n• +1 507 473 4847 US\n• +1 564 217 2
+ 000 US\n• +1 669 444 9171 US\n• +1 669 900 6833 US (San Jose)\n• +1 6892
+ 78 1000 US\n• +1 719 359 4580 US\n• +1 253 205 0468 US\n• +1 253 215 878
+ 2 US (Tacoma)\n\nMeeting ID: 947 6384 2171\n\nFind your local number: ht
+ tps://utexas.zoom.us/u/abI3FgoYXh\n\n---\n\nJoin by SIP\n• 94763842171@z
+ oomcrc.com\n\n---\n\nJoin by H.323\n• 162.255.37.11 (US West)\n• 162.255
+ .36.11 (US East)\n• 115.114.131.7 (India Mumbai)\n• 115.114.115.7 (India
+  Hyderabad)\n• 213.19.144.110 (Amsterdam Netherlands)\n• 213.244.140.110
+  (Germany)\n• 103.122.166.55 (Australia Sydney)\n• 103.122.167.55 (Austr
+ alia Melbourne)\n• 149.137.40.110 (Singapore)\n• 64.211.144.160 (Brazil)
+ \n• 159.124.132.243 (Mexico)\n• 159.124.168.213 (Canada Toronto)\n• 65.3
+ 9.152.160 (Canada Vancouver)\n• 207.226.132.110 (Japan Tokyo)\n• 149.137
+ .24.110 (Japan Osaka)\n\nMeeting ID: 947 6384 2171\n\n
+DTEND;TZID=America/New_York:20240912T200000
+DTSTAMP:20240912T184134Z
+DTSTART;TZID=America/New_York:20240912T180000
+LAST-MODIFIED:20240912T183840Z
+LOCATION:https://utexas.zoom.us/j/94763842171
+SEQUENCE:1
+SUMMARY:Faculty Hack @ Gateways24 - Mentor's Overview
+TRANSP:OPAQUE
+TZID:America/New_York
+UID:8E646CFA-5C0C-4486-BB7A-D9900AF9ADE9
+X-APPLE-CREATOR-IDENTITY:com.apple.calendar
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT10M
+UID:9F80B87A-56F7-49D9-B5E8-01FDC826D2D9
+X-WR-ALARMUID:9F80B87A-56F7-49D9-B5E8-01FDC826D2D9
 END:VALARM
 BEGIN:VALARM
 ACTION:NONE
