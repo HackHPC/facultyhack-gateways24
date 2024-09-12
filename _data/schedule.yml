@@ -56,6 +56,10 @@ preevent_schedule:
           icon: "fa-solid fa-file-image"
           url: "assets/imgs/facultyhack24-zoombackground.png"
           iconcolor: blue
+        - title: Slide Deck
+          icon: fa-regular fa-file-pdf
+          iconcolor: red
+          url: "assets/slides/pre-event_training/FacultyHack24-MentorsTraining.pdf"
 
 
 
