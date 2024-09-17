@@ -88,7 +88,7 @@ general_schedule:
             icon: fa-brands fa-google-drive
             url: "https://drive.google.com/drive/folders/1L2lPhjufVp9AI38AUIReYWBciv_2H5Vi?usp=sharing"
             iconcolor: gold 
-          - title: Slide Deck
+          - title: Session Slide Deck
             icon: fa-regular fa-file-pdf
             iconcolor: red
             url: assets/slides/event/FacultyHack24-Kickoff.pdf  
