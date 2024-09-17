@@ -75,19 +75,27 @@ general_schedule:
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     zoomlink: https://utexas.zoom.us/j/94763842171
-    theme: Mentor Introductions, GitHub Overview, and Eureka Overview
+    theme: Kick-Off
     events:
-      - name: Mentor Introductions, Poster Template, GitHub, Eureka Overview
+      - name: Mentor Introductions, Poster Template, and GitHub
         type: Training
         links:
           - title: Poster Template
             icon: fa-regular fa-file-powerpoint
             url: "resources/FacultyHack24-Poster_Template.pptx"
             iconcolor: purple
-          #- title: Zoom Virtual Background
-          #  icon: "fa-solid fa-file-image"
-          #  url: "assets/imgs/SGX3FacultyHack2023_ZoomBG1.png"
-          #  iconcolor: blue 
+          - title: Shared GDrive Folder
+            icon: fa-brands fa-google-drive
+            url: "https://drive.google.com/drive/folders/1L2lPhjufVp9AI38AUIReYWBciv_2H5Vi?usp=sharing"
+            iconcolor: gold 
+          - title: Slide Deck
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+            url: assets/slides/event/FacultyHack24-Kickoff.pdf  
+          - title: Zoom Video
+            icon: "fa-solid fa-video"
+            url: "https://utexas.zoom.us/rec/share/bUcu69kBglcwsULI6aoEtOqOTNsGWMZs8XhNzdSUNoMvIvv0KIJQ7UxuTmtawSgQ.LuWl3Qi8SiHMbRP4"
+            iconcolor: blue 
         
   - date: "2024-09-17T18:00(-04:00)"
     session: Afternoon
@@ -101,13 +109,13 @@ general_schedule:
     zoomlink: https://utexas.zoom.us/j/94763842171
     theme: HPC and Science Gateways Overviews
     events:
-      #- name: Mentor Introductions, Poster Template, GitHub, Eureka Overview
-      #  type: Training
-      #  links:
-          #- title: Poster Template
-          #  icon: fa-regular fa-file-powerpoint
-          #  url: "resources/2023_FacultyHack-GatewaysPoster-withfeedback.pptx"
-          #  iconcolor: darkred     
+      - name: Resources
+        type: Training and Checkin
+        links:
+          - title: Session Slide Deck
+            icon: fa-brands fa-google-drive
+            url: "https://docs.google.com/presentation/d/1hVo-5KmAB0kHrQjwsJWCzQ6Ch4VYel2745SjIzmyFMY/edit?usp=sharing"
+            iconcolor: gold    
   
   - date: "2024-09-18T18:00(-04:00)"
     session: Afternoon
@@ -131,7 +139,7 @@ general_schedule:
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     zoomlink: https://utexas.zoom.us/j/94763842171
-    theme: Project Checkins
+    theme: Omnidbond's Project Eureka and Checkins 
   
   - date: "2024-09-20T18:00(-04:00)"
     session: Afternoon
