@@ -116,7 +116,12 @@ general_schedule:
             icon: fa-brands fa-google-drive
             url: "https://docs.google.com/presentation/d/1hVo-5KmAB0kHrQjwsJWCzQ6Ch4VYel2745SjIzmyFMY/edit?usp=sharing"
             iconcolor: gold    
-  
+          - title: Zoom Video
+            icon: "fa-solid fa-video"
+            url: "https://utexas.zoom.us/rec/share/kQShbFMahXoC_34itD8PeyvwklYMSFWDEGUFjFcO2Frlw7Em3CIV8y0k74YEogNQ.H_H4QbrnkCOMya_S"
+            iconcolor: blue 
+
+          
   - date: "2024-09-18T18:00(-04:00)"
     session: Afternoon
     #    length: 02:00
@@ -152,6 +157,14 @@ general_schedule:
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Project Checkins
+    events:
+      - name: Resources
+        type: Training and Checkin
+        links:
+          - title: Post Event Survey
+            url: https://forms.gle/4CGoYTmes8D3Mjgm6
+            icon: fa-solid fa-clipboard-question
+            iconcolor: purple
   
   - date: "2024-10-08T16:00(-06:00)"
     session: Afternoon
@@ -164,3 +177,11 @@ general_schedule:
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Gateways24 Poster Session
+    events:
+      - name: Resources
+        links:
+          - title: Post Event Survey
+            url: https://forms.gle/4CGoYTmes8D3Mjgm6
+            icon: fa-solid fa-clipboard-question
+            iconcolor: purple
+    
