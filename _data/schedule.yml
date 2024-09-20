@@ -92,7 +92,7 @@ general_schedule:
             icon: fa-regular fa-file-pdf
             iconcolor: red
             url: assets/slides/event/FacultyHack24-Kickoff.pdf  
-          - title: Zoom Video
+          - title: Zoom Video Recording
             icon: "fa-solid fa-video"
             url: "https://utexas.zoom.us/rec/share/bUcu69kBglcwsULI6aoEtOqOTNsGWMZs8XhNzdSUNoMvIvv0KIJQ7UxuTmtawSgQ.LuWl3Qi8SiHMbRP4"
             iconcolor: blue 
@@ -116,7 +116,7 @@ general_schedule:
             icon: fa-brands fa-google-drive
             url: "https://docs.google.com/presentation/d/1hVo-5KmAB0kHrQjwsJWCzQ6Ch4VYel2745SjIzmyFMY/edit?usp=sharing"
             iconcolor: gold    
-          - title: Zoom Video
+          - title: Zoom Video Recording
             icon: "fa-solid fa-video"
             url: "https://utexas.zoom.us/rec/share/kQShbFMahXoC_34itD8PeyvwklYMSFWDEGUFjFcO2Frlw7Em3CIV8y0k74YEogNQ.H_H4QbrnkCOMya_S"
             iconcolor: blue 
@@ -133,6 +133,13 @@ general_schedule:
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     zoomlink: https://utexas.zoom.us/j/94763842171
     theme: Hackthon Project Introductions
+    events:
+      - name: Resources
+        links:
+          - title: Zoom Video Recording
+            icon: "fa-solid fa-video"
+            url: "https://utexas.zoom.us/rec/share/-CQ6H2Yofm60j1KOm9yzlDwHT3t32aYCu-fWE0EgFYZPFL1AXC4bNP0yJoQlfJlC.HXyx5peo8HEgzH7N"
+            iconcolor: blue  
   
   - date: "2024-09-19T18:00(-04:00)"
     session: Afternoon
@@ -144,7 +151,28 @@ general_schedule:
     #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
     #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
     zoomlink: https://utexas.zoom.us/j/94763842171
-    theme: Omnidbond's Project Eureka and Checkins 
+    theme: Omnidbond's Project Eureka and Globus
+    events:
+      - name: Resources
+        type: Training and Checkin
+        links:
+          - title: Globus Slide Deck
+            icon: fa-regular fa-file-pdf
+            iconcolor: red
+            url: "assets/slides/event/20240919_FacultyHack24_Globus_intro.pdf"
+          - title: "Lev Gorenstein (Globus/UChicago)"
+            icon: fa fa-linkedin #fa-solid fa-link #fa-regular #fa-file-pdf fab fa-youtube
+            iconcolor: blue
+            url: "https://www.linkedin.com/in/levgorenstein"
+          - title: "Boyd Wilson (Omnibond)"
+            icon: fa fa-linkedin #fa-solid fa-link #fa-regular #fa-file-pdf fab fa-youtube
+            iconcolor: blue
+            url: "https://www.linkedin.com/in/boydwilson"
+          - title: Zoom Video Recording
+            icon: "fa-solid fa-video"
+            url: "https://utexas.zoom.us/rec/share/IOc_m8SsRssYoihhZUr7SGi4hywXCcLWPL6rEVOjyMuwS6IyGjF3WNocovaTT3Ke.ITjpMO9FAiqRVUEx"
+            iconcolor: blue  
+
   
   - date: "2024-09-20T18:00(-04:00)"
     session: Afternoon
