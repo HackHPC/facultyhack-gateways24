@@ -194,6 +194,18 @@ general_schedule:
             icon: fa-solid fa-clipboard-question
             iconcolor: purple
   
+   - date: "2024-09-26T18:00(-04:00)"
+    session: Afternoon
+    #    length: 02:00
+    timezone: EDT
+    #icsfile: aassets/ics_files/Faculty_Hack_Gateways24-Day5.ics
+    #    #location: Westin 6th Floor - Chastain F Room
+    #    #address: "Westin Peachtree Plaza Hotel (210 Peachtree St NW, Atlanta, GA 30303)"
+    #    #googlemap: "https://goo.gl/maps/URaSgXRP6uoLzgdVA?coh=178572&entry=tt"
+    #    #locationmap: "assets/imgs/westin-6thfloor-map.jpeg"
+    zoomlink: https://utexas.zoom.us/j/94763842171
+    theme: Optional Session / Poster Review
+
   - date: "2024-10-08T16:00(-06:00)"
     session: Afternoon
     #    length: 02:00
