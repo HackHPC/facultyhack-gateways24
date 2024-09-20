@@ -194,7 +194,7 @@ general_schedule:
             icon: fa-solid fa-clipboard-question
             iconcolor: purple
   
-   - date: "2024-09-26T18:00(-04:00)"
+  - date: "2024-09-26T18:00(-04:00)"
     session: Afternoon
     #    length: 02:00
     timezone: EDT
