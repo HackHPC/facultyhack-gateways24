@@ -14,9 +14,18 @@
     
         <h2 id="{{ team.teamname }}" style="border-bottom: 4px solid black; margin: 0px;"><i class="fas fa-users"></i> {{ team.teamname }}</h2>
         
+       
+
       
-        <p style="margin-bottom: 2px;">{% if team.projectgoals %}
-          {% if team.awards %} &#127942; <strong style="color:goldenrod;">{{ team.awards }} - </strong>{% endif %}<strong>Project Goal(s):</strong> {{ team.projectgoals }}
+        <p style="margin-bottom: 2px;">
+          
+          {% if team.coursedescription %}
+          <strong>Course Description:</strong> {{ team.coursedescription }} <br>
+          {% endif %}
+
+          {% if team.projectgoals %}
+          {% if team.awards %} &#127942; <strong style="color:goldenrod;">{{ team.awards }} - </strong>{% endif %}
+          <strong>Project Goal(s):</strong> {{ team.projectgoals }}
        
        {% endif %}
        
@@ -35,7 +44,7 @@
     
     
     
-      <h3 style="margin-top: 0; margin-bottom: 5px;"> Team Members: </h3>
+      <h3 style="margin-top: 0; margin-bottom: 5px;"> Faculty Member: </h3>
    
     <ul>
        
@@ -70,7 +79,7 @@
         {% endfor %}
              
        </ul>  
-       <h3 style="margin-top: 0; margin-bottom: 5px;"> Team Mentors:</h3>
+       <h3 style="margin-top: 0; margin-bottom: 5px;"> Mentors:</h3>
        <ul>
         {% for member in team.mentor.names %}
         <li><strong>{{ member }}</strong> 
